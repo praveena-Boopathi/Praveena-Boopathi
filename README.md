@@ -1,4 +1,3 @@
-
 Hi there, I'm Praveena B! 👋 ☕
 Java Full Stack Developer | UI/UX Designer | React Developer 🎨 Passionate about clean code, beautiful designs, and building real-world apps
 ---
@@ -43,6 +42,8 @@ Project	Tech	Link
 📊 GitHub Stats:
 ![Praveena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveena-Boopathi&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveena-Boopathi&layout=compact&theme=tokyonight&hide_border=true)
+🔥 GitHub Streak:
+![GitHub Streak](https://streak-stats.demolab.com?user=praveena-Boopathi&theme=tokyonight&hide_border=true)
 ---
 🎯 Areas of Interest:
 `Java Full Stack Development` `Frontend Engineering (React.js)` `UI/UX Design` `Mobile App Development`
